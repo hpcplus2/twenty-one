@@ -44,6 +44,8 @@ every `wait` milliseconds (or once per browser frame).
 
 而使用throttle则可以保障我们不断的去检查滚动条的位置，及时获取数据。
 
+<!-- more -->
+
 ## 如何使用
 
 debounce和throttle的轮子已经非常多了，没有必要自己去实现一套。这里推荐一种方式，使用Lodash的自定义库，生成的代码仅2kb。

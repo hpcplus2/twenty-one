@@ -78,6 +78,8 @@ function inherit(p) {
 }
 ```
 
+<!-- more -->
+
 ### poker类
 
 ```
