@@ -385,3 +385,7 @@ React会在组件挂载时调用`ref`回调，同时当组件卸载的时候，`
 这是因为每次重新渲染都会产生一个新的函数实例，所以React会清理旧的，并生成新的ref。
 你可以通过将他设置为类的绑定方法来避免这种情况，但是在大多数情况下，他不应该存在。
 
+
+> 文章原文：
+> 
+> [React官网 - Refs-And-The-DOM](https://reactjs.org/docs/refs-and-the-dom.html)
